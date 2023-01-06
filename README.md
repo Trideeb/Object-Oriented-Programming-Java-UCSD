@@ -1,9 +1,9 @@
 # Project Description:
 
 - An interactive graphical map which displays all the major earthquakes that have occurred with data collected from the website (link: https://www.usgs.gov/) 
-- For drawing out the Map, I chose
+- Technologies used in rendering the MAP
 
-1. Google Maps as my Maps Provider
+1. Google Maps as the main Maps Provider
 2. Unfolding library for setting up and drawing out the basic layout of the Map. [http://unfoldingmaps.org/](url)
 3. Processing library to draw shapes. [https://processing.org/reference/libraries/](url)
 
